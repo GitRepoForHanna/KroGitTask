@@ -1,7 +1,7 @@
 line 1  updated line
-line 2
+line 2 - change within 2 folder
 line 3 new updated line
-line 4
+line 4 - change within 2 folder
 line 5 updated line
 line 6
 line 7
