@@ -1,10 +1,10 @@
 line 1  updated line
 line 2
-line 3
+line 3 new updated line
 line 4
 line 5 updated line
 line 6
 line 7
-line 8
+line 8 new updated line
 line 9
 line 10
