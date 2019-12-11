@@ -4,8 +4,8 @@ line 3 new updated line
 line 4 - change within 2 folder
 line 5 updated line
 line 6
-line 7
+line 7 change within folder 1
 line 8 new updated line
-line 9
-line 10
+line 9 change within folder 1
+line 10 change within folder 1 3d
 new line 11
