@@ -1,6 +1,8 @@
 line 1 updated step 5
+line 1 updated
 line 2
 line 3 updated step 5
+line 3 updated
 line 4
 line 5
 line 6
